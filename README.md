@@ -1,5 +1,8 @@
 # team-Water Savers
 
+![alt tag](https://github.com/BigDataForSanDiego/team-WaterSavers/blob/master/banner.jpg)
+
+
 ## Team Members :
 
 Utsav Parikh
