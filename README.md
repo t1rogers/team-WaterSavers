@@ -1,7 +1,5 @@
-# team-Water Savers
-
 ![alt tag](https://github.com/BigDataForSanDiego/team-WaterSavers/blob/master/banner.jpg)
-
+# team-Water Savers
 
 ## Team Members :
 
